@@ -1,0 +1,11 @@
+{
+  "users": [
+    {
+      "username": "giacomo.verdesca",
+      "gender": "M",
+      "date": "2001-12-11",
+      "password": "giacomoverdesca",
+      "id": 1
+    }
+  ]
+}
